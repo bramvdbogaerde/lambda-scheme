@@ -15,7 +15,7 @@ It also contains an "if" expression and the boolean values `true` and `false`.
 
 Other programming constructions like "cons", "car","cdr"... can be easily written as lambda expressions, but are not included.
 
-In addition to these a function "to-int" is provided as well in order to easily verify calculations.
+In addition to those a function "to-int" is provided as well in order to easily verify calculations.
 
 Finally all functions that represent lambda expressions don't allow multiple arguments to be passed, currying should be used instead.
 
