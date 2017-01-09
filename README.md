@@ -27,7 +27,7 @@ plus:
 
 times:
 
-![](multiply.png)
+![](times.png)
 
 true: 
 
