@@ -72,7 +72,7 @@ Output:
 
 ## Contribute
 
-If you found an error in the code or in one of the examples you can open an issue or fork this repository, fix it yourself and a pull request.
+If you found an error in the code or in one of the examples you can open an issue or fork this repository, fix it yourself and send a pull request.
 
 In case you want to add some more programming constructions to the current list, feel free to do so as well. However keep in mind that everything should be kept as simple as possible and that all functions must be able to be rewritten as valid lambda expressions.
 
