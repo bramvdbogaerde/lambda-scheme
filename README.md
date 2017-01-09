@@ -70,5 +70,6 @@ Output:
 #f
 ```
 
+## License
 
-
+MIT
